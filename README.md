@@ -220,4 +220,4 @@ print(predict('邮件_files/151.txt', vectorizer, model))
 
        TfidfVectorizer(stop_words=['的', '是', '在'], ...)
 
-![运行结果](.../images/task.png)
+![运行结果](https://github.com/sea-ka/ai.task4/tree/master/images/task.png)
